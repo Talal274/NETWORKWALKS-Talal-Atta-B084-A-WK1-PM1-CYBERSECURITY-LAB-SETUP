@@ -166,8 +166,8 @@ Taking a snapshot immediately following a successful configuration reinforced th
 **Talal Atta**\
 Cybersecurity Student
 
-LinkedIn: [https://www.linkedin.com/in/ali-abbas-qazi/](https://www.linkedin.com/in/ali-abbas-qazi/)\
-GitHub: [https://github.com/Ali-Abbas-Qazi](https://github.com/Ali-Abbas-Qazi)
+LinkedIn: ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin)
+GitHub: ![GitHub Profile](https://img.shields.io/badge/GitHub-Talal274-181717?style=for-the-badge&logo=github)
 
 <br>
 
